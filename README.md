@@ -73,4 +73,4 @@ git push -u origin main
 
 ## git remote add origin https://github.com/mkwu2325/itemboss.git
 git branch -M main
-git push -u origin main
+git push --set-upstream origin main
